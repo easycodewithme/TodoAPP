@@ -24,16 +24,16 @@ Welcome to **MyTodo**, a simple and efficient application to manage your tasks. 
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Todo-List-nodejs-master\image.png)
+![Dashboard](path/to/dashboard-screenshot.png)
 
 ### Add Todo
-![Add Todo](Todo-List-nodejs-master\image1.png)
+![Add Todo](path/to/add-todo-screenshot.png)
 
 ### Categorized Todos
-![Categorized Todos](Todo-List-nodejs-master\image2.png)
+![Categorized Todos](path/to/categorized-todos-screenshot.png)
 
 ### Deadlines
-![Deadlines](Todo-List-nodejs-master\image2.png)
+![Deadlines](path/to/deadlines-screenshot.png)
 
 > Note: Replace the `path/to/...` with actual paths to your screenshots in your repository.
 
