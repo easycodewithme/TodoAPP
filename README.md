@@ -24,16 +24,16 @@ Welcome to **MyTodo**, a simple and efficient application to manage your tasks. 
 ## Screenshots
 
 ### Dashboard
-![Dashboard](image.png)
+![Dashboard](image2.png)
 
 ### Add Todo
 ![Add Todo](image1.png)
 
 ### Categorized Todos
-![Categorized Todos](image2.png)
+![Categorized Todos](image.png)
 
 ### Deadlines
-![Deadlines](image2.png)
+![Deadlines](image.png)
 
 
 
